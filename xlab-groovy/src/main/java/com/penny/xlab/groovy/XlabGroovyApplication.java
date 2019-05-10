@@ -1,13 +1,13 @@
-package com.penny.xlab;
+package com.penny.xlab.groovy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class XLabApplication {
+public class XlabGroovyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(XLabApplication.class, args);
+		SpringApplication.run(XlabGroovyApplication.class, args);
 	}
 
 }

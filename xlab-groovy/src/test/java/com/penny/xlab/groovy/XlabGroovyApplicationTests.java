@@ -1,4 +1,4 @@
-package com.penny.xlab;
+package com.penny.xlab.groovy;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class XLabApplicationTests {
+public class XlabGroovyApplicationTests {
 
 	@Test
 	public void contextLoads() {
